@@ -16,10 +16,10 @@
 
 🌍 **Connect With Me:**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyansh-dubey/" target="_blank">
+  <a href="https://www.linkedin.com/in/shreyansh-dubey21/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/shreyansh21/" target="_blank">
+  <a href="https://leetcode.com/u/Shreyansh_Dubey21/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
