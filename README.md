@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Shreyansh Dubey! 👋</h1> 
-<h3 align="center">🚀 FullStack Developer | ML Enthusiast | Data Explorer</h3> 
+<h1 align="left">Hi there, I'm Shreyansh Dubey! 👋</h1> 
+<h3 align="left">🚀 FullStack Developer | ML Enthusiast | Data Explorer</h3> 
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shreyansh-21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -16,7 +16,7 @@
 
 🌍 **Connect With Me:**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyansh-dubey21/" target="_blank">
+  <a href="https://www.linkedin.com/in/shreyansh-dubey21/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Shreyansh_Dubey21/" target="_blank">
