@@ -1,9 +1,6 @@
 <h1 align="left">Hi there, I'm Shreyansh Dubey! 👋</h1> 
-<h3 align="left">🚀 FullStack Developer | ML Enthusiast | Data Explorer</h3> 
+<h3 align="left">🚀 FullStack Developer | ML Enthusiast | Data Explorer <img align="right" src="https://komarev.com/ghpvc/?username=shreyansh-21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </h3> 
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shreyansh-21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p> 
 
 <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632f5a702b0fdf2/68747470733a2f2fres.cloudinary.com%2fpracticaldev%2fimage%2ffetch%2fs--FOQjQ8bu--%2fc_imagga_scale%2cf_auto%2cq_auto%2fw_1000%2fhttps%3a%2f%2fdev-to-uploads.s3.amazonaws.com%2fuploads%2farticles%2fntpzx0olxlkphn5ms0r2.gif" alt="Coding GIF" width="100%" />
 
