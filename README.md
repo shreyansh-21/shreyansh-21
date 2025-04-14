@@ -7,7 +7,7 @@
 
 🌱 **Currently learning:** **Kubernetes, Apache Kafka, Machine Learning** <br>
 💡 **Tech Interests:** **Backend Development, AI/ML, Data Science** <br>
-📁 **Portfolio:** [Visit My Website](https://portfolio-shreyansh-21s-projects.vercel.app/) <br>
+📁 **Portfolio:** [Visit My Website](https://shreyanshdubey.vercel.app/) <br>
 📫 **How to reach me:** shreyansh2128@gmail.com <br>
 
 
