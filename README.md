@@ -14,7 +14,7 @@
       📫 <strong>How to reach me:</strong> shreyansh2128@gmail.com</p>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ1a3JmYjZid2Q1MGR6czczN2NicXNlMTA0eXVrY3R5aDViMTJrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" 
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ1a3JmYjZid2Q1MGR6czczN2NicXNlMTA0eXVrY3R5aDViMTJrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" 
            height="150" width ="220" alt="Coder GIF"/>
     </td>
   </tr>
