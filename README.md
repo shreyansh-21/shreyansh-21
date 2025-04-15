@@ -15,7 +15,7 @@
     </td>
     <td>
       <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47jarjy0aidwf7ybkdbi94jipuyjfdfmgk65e9pfss&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
-           height="150" width ="180" alt="Coder GIF"/>
+           height="150" width ="220" alt="Coder GIF"/>
     </td>
   </tr>
 </table>
