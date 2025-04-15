@@ -5,10 +5,20 @@
 <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632f5a702b0fdf2/68747470733a2f2fres.cloudinary.com%2fpracticaldev%2fimage%2ffetch%2fs--FOQjQ8bu--%2fc_imagga_scale%2cf_auto%2cq_auto%2fw_1000%2fhttps%3a%2f%2fdev-to-uploads.s3.amazonaws.com%2fuploads%2farticles%2fntpzx0olxlkphn5ms0r2.gif" alt="Coding GIF" width="100%" />
 
 
-🌱 **Currently learning:** **Kubernetes, Apache Kafka, Machine Learning** <br>
-💡 **Tech Interests:** **Backend Development, AI/ML, Data Science** <br>
-📁 **Portfolio:** [Visit My Website](https://shreyanshdubey.vercel.app/) <br>
-📫 **How to reach me:** shreyansh2128@gmail.com <br>
+<table>
+  <tr>
+    <td>
+      <p>🌱 <strong>Currently learning:</strong> <strong>Kubernetes, Apache Kafka, Machine Learning</strong> <br>
+      💡 <strong>Tech Interests:</strong> <strong>Backend Development, AI/ML, Data Science</strong> <br>
+      📁 <strong>Portfolio:</strong> <a href="https://shreyanshdubey.vercel.app/">Visit My Website</a> <br>
+      📫 <strong>How to reach me:</strong> shreyansh2128@gmail.com</p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e47jarjy0aidwf7ybkdbi94jipuyjfdfmgk65e9pfss&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+           height="150" width ="180" alt="Coder GIF"/>
+    </td>
+  </tr>
+</table>
 
 
 
