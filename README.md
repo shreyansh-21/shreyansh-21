@@ -35,8 +35,9 @@
 
 ⚙️ **Tech Stack:**  
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,javascript,typescript,html,css,git,github,mongodb,react,nextjs,nodejs,express,postgresql,androidstudio,docker,kubernetes,aws,tensorflow,postman,selenium,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vuejs,nodejs,express,postgresql,mongodb,git,github,docker,kubernetes,aws,postman,androidstudio,python,java,pytorch,tensorflow,opencv,selenium&theme=dark" />
 </p>
+
 
 
 📊 **GitHub Stats:**  
