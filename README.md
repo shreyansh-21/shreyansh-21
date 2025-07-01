@@ -32,11 +32,11 @@
     <img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="LinkedIn" />
   </a>
   
-  <a href="https://x.com/YOUR_X_USERNAME" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/shreyansh_codes" target="_blank" rel="noopener noreferrer">
     <img src="https://skills.syvixor.com/api/icons?i=x" alt="X (Twitter)" />
   </a>
   
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/shreyansh21_" target="_blank" rel="noopener noreferrer">
     <img src="https://skills.syvixor.com/api/icons?i=discord" alt="Discord" />
   </a>
   
