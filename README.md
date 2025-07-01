@@ -24,13 +24,27 @@
 
 🌍 **Connect With Me:**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyansh-dubey21/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://shreyanshdubey.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skills.syvixor.com/api/icons?i=vercel" alt="Portfolio" />
   </a>
-  <a href="https://leetcode.com/u/Shreyansh_Dubey21/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  
+  <a href="https://www.linkedin.com/in/shreyansh-dubey21/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://x.com/YOUR_X_USERNAME" target="_blank" rel="noopener noreferrer">
+    <img src="https://skills.syvixor.com/api/icons?i=x" alt="X (Twitter)" />
+  </a>
+  
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" rel="noopener noreferrer">
+    <img src="https://skills.syvixor.com/api/icons?i=discord" alt="Discord" />
+  </a>
+  
+  <a href="https://leetcode.com/u/Shreyansh_Dubey21/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skills.syvixor.com/api/icons?i=leetcode" alt="LeetCode" />
   </a>
 </p>
+
 
 
 ⚙️ **Tech Stack:**  
