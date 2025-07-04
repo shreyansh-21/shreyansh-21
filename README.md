@@ -8,11 +8,19 @@
 <table>
   <tr>
     <td>
-      <p>🌱 <strong>Currently learning:</strong> <strong>Kubernetes, Apache Kafka, Machine Learning</strong> <br>
-      💡 <strong>Tech Interests:</strong> <strong>Backend Development, AI/ML, Data Science</strong> <br>
-      📁 <strong>Portfolio:</strong> <a href="https://shreyanshdubey.vercel.app/">Visit My Website</a> <br>
-      📫 <strong>How to reach me:</strong> shreyansh2128@gmail.com</p>
-    </td>
+<p>
+  I’m exploring Langchain, MCP, and advanced Machine Learning. I love staying curious and trying out new ideas.
+</p>
+<p>
+  When I’m not coding, you’ll probably find me sipping coffee , or watching one piece. If any of that resonates with you, I’d love to connect whether it’s to collaborate, chat about ideas, or just geek out over new frameworks.
+</p>
+<p>
+  📁 <strong>Portfolio:</strong> <a href="https://shreyanshdubey.vercel.app/" target="_blank">Visit My Website</a><br>
+  📫 <strong>Email:</strong> <a href="mailto:shreyansh2128@gmail.com">shreyansh2128@gmail.com</a>
+</p>
+
+
+  </td>
     <td>
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ1a3JmYjZid2Q1MGR6czczN2NicXNlMTA0eXVrY3R5aDViMTJrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" 
            height="150" width ="220" alt="Coder GIF"/>
