@@ -49,7 +49,7 @@
 
 ⚙️ **Tech Stack:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,redux,nextjs,vuejs,pinia,threejs,nodejs,express,django,flask,python,java,mysql,postgresql,mongodb,git,github,githubactions,docker,kubernetes,aws,postman,androidstudio,pytorch,tensorflow,opencv,selenium&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,redux,nextjs,vuejs,pinia,threejs,nodejs,express,django,flask,python,java,mysql,postgresql,mongodb,prisma,git,github,githubactions,docker,kubernetes,aws,postman,androidstudio,pytorch,tensorflow,opencv,selenium&theme=dark" />
 </p>
 
 
