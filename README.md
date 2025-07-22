@@ -9,7 +9,7 @@
   <tr>
     <td>
 <p>
-  I’m exploring Langchain, MCP, and advanced Machine Learning. I love staying curious and trying out new ideas.
+  I’m exploring Langchain, n8n, MCP, and advanced Machine Learning. I love staying curious and trying out new ideas.
 </p>
 <p>
   When I’m not coding, you’ll probably find me sipping coffee , or watching one piece. If any of that resonates with you, I’d love to connect whether it’s to collaborate, chat about ideas, or just geek out over new frameworks.
