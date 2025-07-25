@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Shreyansh Dubey! 👋</h1> 
+<h1 align="left">Hi there, I'm Shreyansh Dubey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /></h1> 
 <h3 align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&size=22&center=false&vCenter=true&width=500&lines=FullStack+Developer;Building+AI-Enabled+Web+Apps;Data+Explorer+%26+Problem+Solver" />
   
