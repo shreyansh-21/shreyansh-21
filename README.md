@@ -44,9 +44,14 @@
     <img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="LinkedIn" />
   </a>
   
+   <a href="https://www.instagram.com/shreyansh_2120" target="_blank" rel="noopener noreferrer">
+    <img src="https://skills.syvixor.com/api/icons?i=instagram" alt="Instagram" />
+  </a>
+  
   <a href="https://x.com/shreyansh_codes" target="_blank" rel="noopener noreferrer">
     <img src="https://skills.syvixor.com/api/icons?i=x" alt="X (Twitter)" />
   </a>
+  
   
   <a href="https://discord.com/users/shreyansh21_" target="_blank" rel="noopener noreferrer">
     <img src="https://skills.syvixor.com/api/icons?i=discord" alt="Discord" />
