@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Premium Header Banner -->
+  <!-- Blue Tech Header Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:F5E6CC,100:C5A880&height=200&section=header&text=Shreyansh%20Dubey&fontSize=48&fontColor=3D342B&animation=fadeIn&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Builder%20%C2%B7%20Lifelong%20Learner&descSize=15&descAlignY=58&descColor=5C5146"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:10141F,50:123D6A,100:1596CE&height=200&section=header&text=Shreyansh%20Dubey&fontSize=48&fontColor=EAF4FF&animation=fadeIn&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Builder%20%C2%B7%20Lifelong%20Learner&descSize=15&descAlignY=58&descColor=C5DDF5"
     width="100%"
     alt="Shreyansh Dubey - Forward Deployed Engineer"
     style="display: block;"
@@ -10,10 +10,12 @@
 
   <!-- Animated Typing Introduction -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=B08D57&center=true&vCenter=true&width=700&height=35&lines=MERN+Stack+Developer;400%2B+DSA+Problems+Solved;Building+products+and+learning+every+day"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=29A6D8&center=true&vCenter=true&width=700&height=35&lines=MERN+Stack+Developer;400%2B+DSA+Problems+Solved;Building+products+and+learning+every+day"
     alt="Typing SVG"
     style="display: block; margin-top: -8px;"
   />
+
+</div>
 
 </div>
 <h1 align="left">Hi there, I'm Shreyansh Dubey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /></h1> 
@@ -101,17 +103,18 @@
 
 🏆 **3D Contribution Heatmap:**  
 <p align="center">
-  <img src="https://github.com/shreyansh-21/shreyansh-21/blob/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Heatmap" />
+  <img src="https://github.com/shreyansh-21/shreyansh-21/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Heatmap" />
 </p>
 
 <br />
 
 <div align="center">
 
+  <!-- Blue Tech Footer Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:C5A880,100:F5E6CC&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1596CE,50:123D6A,100:10141F&height=120&section=footer"
     width="100%"
-    alt="champagne beige footer wave"
+    alt="blue tech footer wave"
   />
 
 </div>
