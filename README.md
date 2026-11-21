@@ -93,18 +93,24 @@
 
 
 <!-- GitHub Stats + Streak -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shreyansh-21&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=10141F&title_color=29A6D8&text_color=D9E9F8&icon_color=F3C744&border_color=10141F"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=shreyansh-21&background=10141F&stroke=123D6A&ring=29A6D8&fire=F3C744&currStreakLabel=29A6D8&sideLabels=D9E9F8&currStreakNum=FFFFFF&sideNums=D9E9F8&dates=8A9BB4&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=shreyansh-21&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=10141F&title_color=29A6D8&text_color=D9E9F8&icon_color=F3C744&border_color=10141F"
+        width="100%"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://streak-stats.demolab.com?user=shreyansh-21&background=10141F&stroke=123D6A&ring=29A6D8&fire=F3C744&currStreakLabel=29A6D8&sideLabels=D9E9F8&currStreakNum=FFFFFF&sideNums=D9E9F8&dates=8A9BB4&hide_border=true"
+        width="100%"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ---
